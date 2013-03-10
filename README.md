@@ -1,4 +1,4 @@
-# wikipedia-js
+# wikipedia-js [![Build Status](https://travis-ci.org/kenshiro-o/wikipedia-js.png?branch=master)](https://travis-ci.org/kenshiro-o/wikipedia-js)
 
   wikipedia-js is a simple client that enables you to query Wikipedia articles in english. The results are formatted
 in basic HTML.
