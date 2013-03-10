@@ -1,3 +1,7 @@
+0.0.3 / 2013-03-10
+====================
+* Fixing a href bug where first quote was not present
+
 0.0.2 / 2013-03-10
 ====================
 * Added travis build configuration
