@@ -40,9 +40,9 @@ on a Wikipedia page). Work is currently in progress to format a whole Wikipedia 
 ## Additional features
 
   The following features will be added soon:
-- retrieve whole article as opposed to summary only
-- return only wiki markup to user if requested (we are currently systematically formatting to HTML)
-- improve performance
+  - retrieve whole article as opposed to summary only
+  - return only wiki markup to user if requested (we are currently systematically formatting to HTML)
+  - improve performance
 
 ## Licence
 
