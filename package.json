@@ -1,0 +1,23 @@
+{
+  "name": "wikipedia-js",
+  "description": "A simple client to query wikipedia",
+  "version": "0.0.1",
+  "keywords": ["wikipedia", "wiki", "client", "search", "node", "node.js"],
+  "author": "kenshiro-o<kenshiro@kenshiro.me>",
+  "main": "lib/wikiClient",
+  "repository":{
+    "type": "git",
+    "url": "git://github.com/kenshiro-o/wikipedia-js.git"
+  },
+  "dependencies":{
+    "superagent": "0.12.x",
+    "cheerio": "0.10.x",
+    "underscore": "*",
+    "underscore.string": "2.3.x"
+  },
+  "devDependencies":{
+    "vows":"*",
+    "expect.js": "*"
+  },
+  "engine": "node >= 0.8.x"
+}
