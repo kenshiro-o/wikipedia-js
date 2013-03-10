@@ -19,5 +19,8 @@
     "vows":"*",
     "expect.js": "*"
   },
-  "engine": "node >= 0.8.x"
+  "engine": "node >= 0.8.x",
+  "scripts" : {
+    "test" :  "make test"
+  }
 }
