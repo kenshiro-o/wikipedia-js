@@ -19,7 +19,8 @@ on a Wikipedia page). Work is currently in progress to format a whole Wikipedia 
   ```js
     var wikipedia = require("wikipedia-js");
     var query = "Napoleon Bonaparte";
-    // if you want to retrieve a full article set summaryOnly to false
+    // if you want to retrieve a full article set summaryOnly to false.
+    // Full article retrieval and parsing is still beta
     var options = {query: query, format: "json", summaryOnly: true};
     wikipedia.searchArticle(options, function(err, htmlWikiText){
       if(err){
@@ -50,7 +51,6 @@ on a Wikipedia page). Work is currently in progress to format a whole Wikipedia 
      [[Category:1769 births]] : <span class="category"><a href="http://en.wikipedia.org/wiki/Category:1769_births">1769 births</a></span>
      {{Cite book|title=Life of Napoleon Bonaparte|last=Abbott|first=John|isbn=1-4179-7063-4|publisher=Kessinger Publishing|year=2005}} : <span class="reference" data-type="book " data-last="John" data-last="Abbott" data-year="2005" data-publisher="Kessinger Publishing" data-isbn="1-4179-7063-4">Life of Napoleon Bonaparte</span>
      {{Gutenberg|no=3567|name=Memoirs of Napoleon}} : <a href="http://www.gutenberg.org/ebooks/3567">Memoirs Of Napoleon</a>
-
 
 
 ## Additional features
