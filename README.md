@@ -41,21 +41,15 @@ on a Wikipedia page). Work is currently in progress to format a whole Wikipedia 
 ## Wiki Markup -> HTML Markup
   Below are examples of wiki markup to the left and the corresponding  HTML markup to the right
 
-  | Wiki markup | HTML markup |
-  |:------------|:------------|
-  | \=title\=   | <pre><h1>title</h1></pre> |
-  | \=\=title\=\= | <pre><h2>title</h2></pre> |
-
-
-    * =title= : <h1>title</h1>
-    * ==title== : <h2>title</h2>
-    * ===title=== : <h3>title</h3>
-    * ====title==== : <h4>title</h4>
-    * [[French Navy]] : <a href="http://en.wikipedia.org/wiki/French_Navy">French Navy</a>
-    * [[Louis XVI of France|Louis XVI]] : <a href="http://en.wikipedia.org/wiki/Louis_XVI">Louis XVI of France</a>
-    * [[Category:1769 births]] : <span class="category"><a href="http://en.wikipedia.org/wiki/Category:1769_births">1769 births</a></span>
-    * {{Cite book|title=Life of Napoleon Bonaparte|last=Abbott|first=John|isbn=1-4179-7063-4|publisher=Kessinger Publishing|year=2005}} : <span class="reference" data-type="book " data-last="John" data-last="Abbott" data-year="2005" data-publisher="Kessinger Publishing" data-isbn="1-4179-7063-4">Life of Napoleon Bonaparte</span>
-    * {{Gutenberg|no=3567|name=Memoirs of Napoleon}} : <a href="http://www.gutenberg.org/ebooks/3567">Memoirs Of Napoleon</a>
+     =title= : <h1>title</h1>
+     ==title== : <h2>title</h2>
+     ===title=== : <h3>title</h3>
+     ====title==== : <h4>title</h4>
+     [[French Navy]] : <a href="http://en.wikipedia.org/wiki/French_Navy">French Navy</a>
+     [[Louis XVI of France|Louis XVI]] : <a href="http://en.wikipedia.org/wiki/Louis_XVI">Louis XVI of France</a>
+     [[Category:1769 births]] : <span class="category"><a href="http://en.wikipedia.org/wiki/Category:1769_births">1769 births</a></span>
+     {{Cite book|title=Life of Napoleon Bonaparte|last=Abbott|first=John|isbn=1-4179-7063-4|publisher=Kessinger Publishing|year=2005}} : <span class="reference" data-type="book " data-last="John" data-last="Abbott" data-year="2005" data-publisher="Kessinger Publishing" data-isbn="1-4179-7063-4">Life of Napoleon Bonaparte</span>
+     {{Gutenberg|no=3567|name=Memoirs of Napoleon}} : <a href="http://www.gutenberg.org/ebooks/3567">Memoirs Of Napoleon</a>
 
 
 
