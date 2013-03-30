@@ -40,7 +40,7 @@ on a Wikipedia page). Work is currently in progress to format a whole Wikipedia 
 
 ## Wiki Markup -> HTML Markup
   Below are examples of wiki markup to the left and the corresponding  HTML markup to the right
-  * <pre>=title= : <h1>title</h1><\pre>
+  *   =title= : <h1>title</h1>
   * ==title== : <h2>title</h2>
   * ===title=== : <h3>title</h3>
   * ====title==== : <h4>title</h4>
