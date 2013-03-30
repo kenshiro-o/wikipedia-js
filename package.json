@@ -1,7 +1,7 @@
 {
   "name": "wikipedia-js",
   "description": "A simple client to query wikipedia",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "keywords": ["wikipedia", "wiki", "client", "search", "node", "node.js"],
   "author": "kenshiro-o<kenshiro@kenshiro.me>",
   "main": "lib/wikiClient",

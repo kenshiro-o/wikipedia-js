@@ -1,3 +1,8 @@
+0.0.5 / 2013-03-10
+====================
+* Fix bug where for empty page case (thanks richorama)
+* Enabling retrieval and parsing of a full article
+
 0.0.4 / 2013-03-10
 ====================
 * Fixing bug where I forgot a portion of the wikipedia address
