@@ -1,9 +1,7 @@
 # wikipedia-js [![Build Status](https://travis-ci.org/kenshiro-o/wikipedia-js.png?branch=master)](https://travis-ci.org/kenshiro-o/wikipedia-js)
 
   wikipedia-js is a simple client that enables you to query Wikipedia articles in english. The results are formatted
-in basic HTML.
-Presently, wikipedia-js only works if you request a summary of an article (i.e. everything before the table of contents
-on a Wikipedia page). Work is currently in progress to format a whole Wikipedia article page.
+in basic HTML. You can retrieve either a summary of an article (i.e. before the table of contents) or a full article
 
 ## Rationale
 
@@ -14,7 +12,7 @@ on a Wikipedia page). Work is currently in progress to format a whole Wikipedia 
     $ npm install wikipedia-js
 
 ## Usage
-  All searches are performed via the single method *searchArticles*:
+  All searches are performed via the single method *searchArticle*:
 
   ```js
     var wikipedia = require("wikipedia-js");
@@ -40,17 +38,17 @@ on a Wikipedia page). Work is currently in progress to format a whole Wikipedia 
   ```
 
 ## Wiki Markup -> HTML Markup
-  Below are examples of wiki markup to the left and the corresponding  HTML markup to the right
+  Below are examples of wiki markup to the left along with the corresponding HTML markup to the right
 
-     =title= : <h1>title</h1>
-     ==title== : <h2>title</h2>
-     ===title=== : <h3>title</h3>
-     ====title==== : <h4>title</h4>
-     [[French Navy]] : <a href="http://en.wikipedia.org/wiki/French_Navy">French Navy</a>
-     [[Louis XVI of France|Louis XVI]] : <a href="http://en.wikipedia.org/wiki/Louis_XVI">Louis XVI of France</a>
-     [[Category:1769 births]] : <span class="category"><a href="http://en.wikipedia.org/wiki/Category:1769_births">1769 births</a></span>
-     {{Cite book|title=Life of Napoleon Bonaparte|last=Abbott|first=John|isbn=1-4179-7063-4|publisher=Kessinger Publishing|year=2005}} : <span class="reference" data-type="book " data-last="John" data-last="Abbott" data-year="2005" data-publisher="Kessinger Publishing" data-isbn="1-4179-7063-4">Life of Napoleon Bonaparte</span>
-     {{Gutenberg|no=3567|name=Memoirs of Napoleon}} : <a href="http://www.gutenberg.org/ebooks/3567">Memoirs Of Napoleon</a>
+     =title= -> <h1>title</h1>
+     ==title== -> <h2>title</h2>
+     ===title=== -> <h3>title</h3>
+     ====title==== -> <h4>title</h4>
+     [[French Navy]] -> <a href="http://en.wikipedia.org/wiki/French_Navy">French Navy</a>
+     [[Louis XVI of France|Louis XVI]] -> <a href="http://en.wikipedia.org/wiki/Louis_XVI">Louis XVI of France</a>
+     [[Category:1769 births]] -> <span class="category"><a href="http://en.wikipedia.org/wiki/Category:1769_births">1769 births</a></span>
+     {{Cite book|title=Life of Napoleon Bonaparte|last=Abbott|first=John|isbn=1-4179-7063-4|publisher=Kessinger Publishing|year=2005}} -> <span class="reference" data-type="book " data-last="John" data-last="Abbott" data-year="2005" data-publisher="Kessinger Publishing" data-isbn="1-4179-7063-4">Life of Napoleon Bonaparte</span>
+     {{Gutenberg|no=3567|name=Memoirs of Napoleon}} -> <a href="http://www.gutenberg.org/ebooks/3567">Memoirs Of Napoleon</a>
 
 
 ## Additional features
