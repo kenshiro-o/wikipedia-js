@@ -47,7 +47,7 @@ in basic HTML. You can retrieve either a summary of an article (i.e. before the 
      [[French Navy]] -> <a href="http://en.wikipedia.org/wiki/French_Navy">French Navy</a>
      [[Louis XVI of France|Louis XVI]] -> <a href="http://en.wikipedia.org/wiki/Louis_XVI">Louis XVI of France</a>
      [[Category:1769 births]] -> <span class="category"><a href="http://en.wikipedia.org/wiki/Category:1769_births">1769 births</a></span>
-     {{Cite book|title=Life of Napoleon Bonaparte|last=Abbott|first=John|isbn=1-4179-7063-4|publisher=Kessinger Publishing|year=2005}} -> <span class="reference" data-type="book " data-last="John" data-last="Abbott" data-year="2005" data-publisher="Kessinger Publishing" data-isbn="1-4179-7063-4">Life of Napoleon Bonaparte</span>
+     {{Cite book|title=Life of Napoleon Bonaparte|last=Abbott|first=John|isbn=1-4179-7063-4|publisher=Kessinger Publishing|year=2005}} -> <span class="reference" data-type="book " data-first="John" data-last="Abbott" data-year="2005" data-publisher="Kessinger Publishing" data-isbn="1-4179-7063-4">Life of Napoleon Bonaparte</span>
      {{Gutenberg|no=3567|name=Memoirs of Napoleon}} -> <a href="http://www.gutenberg.org/ebooks/3567">Memoirs Of Napoleon</a>
 
 
@@ -56,6 +56,7 @@ in basic HTML. You can retrieve either a summary of an article (i.e. before the 
   The following features will be added soon:
   - parse metadata
   - return only wiki markup to user if requested (we are currently systematically formatting to HTML)
+  - return non-parsed formats other than JSON
   - improve performance
 
 ## Licence
