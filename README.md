@@ -61,7 +61,7 @@
 
 ## Acknowledgement
 
-I would like to thank to kenshiro-o to created this awesome API.
+I would like to thank to Kenshiro to created this awesome API.
 
 ## Licence
 
