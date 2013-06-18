@@ -1,7 +1,8 @@
 # wikipedia-js [![Build Status](https://travis-ci.org/kenshiro-o/wikipedia-js.png?branch=master)](https://travis-ci.org/kenshiro-o/wikipedia-js)
 
-  wikipedia-js is a simple client that enables you to query Wikipedia articles in english. The results are formatted
-in basic HTML. You can retrieve either a summary of an article (i.e. before the table of contents) or a full article
+  wikipedia-js is a simple client that enables you to query Wikipedia articles in english. 
+  The format of the result is among `json`, `jsonfm`, `wddx`, `wddxfm`, `xml`, `rawfm`.
+  In the case of `html` the result is formatted in basic HTML. You can retrieve either a summary of an article (i.e. before the table of contents) or a full article
 
 ## Rationale
 
@@ -19,7 +20,7 @@ in basic HTML. You can retrieve either a summary of an article (i.e. before the 
     var query = "Napoleon Bonaparte";
     // if you want to retrieve a full article set summaryOnly to false.
     // Full article retrieval and parsing is still beta
-    var options = {query: query, format: "json", summaryOnly: true};
+    var options = {query: query, format: "html", summaryOnly: true};
     wikipedia.searchArticle(options, function(err, htmlWikiText){
       if(err){
         console.log("An error occurred[query=%s, error=%s]", query, err);
@@ -55,9 +56,12 @@ in basic HTML. You can retrieve either a summary of an article (i.e. before the 
 
   The following features will be added soon:
   - parse metadata
-  - return only wiki markup to user if requested (we are currently systematically formatting to HTML)
-  - return non-parsed formats other than JSON
+  - return other formats i.e.: `yaml`, `php`, `txt`, `dbg`, `dump`
   - improve performance
+
+## Acknowledgement
+
+I would like to thank to Kenshiro to created this awesome API.
 
 ## Licence
 
