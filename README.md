@@ -60,8 +60,9 @@
   - improve performance
 
 ## Acknowledgement
-
-I would like to thank to Kenshiro to created this awesome API.
+  I would like to thank the following people for their contribution to this project:
+    - torokmark
+    - richorama
 
 ## Licence
 

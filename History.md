@@ -1,3 +1,7 @@
+0.0.6 / 2013-06-23
+====================
+* return non-parsed formats other than JSON
+
 0.0.5 / 2013-03-10
 ====================
 * Fix bug where for empty page case (thanks richorama)
