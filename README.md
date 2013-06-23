@@ -61,8 +61,8 @@
 
 ## Acknowledgement
   I would like to thank the following people for their contribution to this project:
-    - torokmark
-    - richorama
+  - torokmark
+  - richorama
 
 ## Licence
 
