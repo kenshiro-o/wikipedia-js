@@ -59,6 +59,19 @@ vows.describe("Wikipedia search checks").addBatch({
       expect(_(response).startsWith("<p><strong>Albert Einstein</strong>")).to.be(true);
 //      console.log(response);
 //      console.log("*************************************************************************************\n\n\n\n");
+    },
+  },
+  "When searching (in html) for a wiki article with a single quote in the title":{
+    topic: function(){
+      var options = {query: "Harry Potter and the Philosopher's Stone", format: "html"};
+      wikiClient.searchArticle(options, this.callback);
+    },
+
+    "A valid full article is returned": function(err, response){
+      expect(err).to.be(null);
+      expect(_(response).startsWith("<p><strong><em>Harry Potter and the Philosopher's Stone</em></strong>")).to.be(true);
+//      console.log(response);
+//      console.log("*************************************************************************************\n\n\n\n");
     }
   },
   // end of html test
