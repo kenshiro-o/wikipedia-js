@@ -1,0 +1,40 @@
+{{other uses}}
+<!-- ARTICLE USES BRITISH SPELLING: DON'T TRY TO "CORRECT" IT-->
+{{Use dmy dates|date=August 2013}}
+{{Use British English|date=August 2013}}
+{{pp-semi|small=yes}}{{pp-move-indef}}
+{{Infobox royalty|realm=france
+|name=Napoleon I
+|image=Jacques-Louis David - The Emperor Napoleon in His Study at the Tuileries - Google Art Project.jpg
+|imgw=225
+|alt=Full length portrait of Napoleon in his forties, in high-ranking white and dark blue military dress uniform. He stands amid rich 18th-century furniture laden with papers, and gazes at the viewer. His hair is [[Brutus]] style, cropped close but with a short fringe in front, and his right hand is tucked in his waistcoat.
+|caption=''[[The Emperor Napoleon in His Study at the Tuileries]]'', by [[Jacques-Louis David]], 1812
+|succession= [[Emperor of the French]]
+|reign=18 May 1804&nbsp;– 11 April 1814<br/>20 March 1815&nbsp;– 22 June 1815
+|coronation=2 December 1804
+|cor-type=france
+|full name=Napoleon Bonaparte
+|predecessor=Himself as [[First Consul]]
+|successor=[[Louis XVIII of France|Louis XVIII]] (''[[de jure]]'' in 1814)
+|succession1= [[King of Italy]]
+|reign1=17 March 1805&nbsp;– 11 April 1814
+|coronation1=26 May 1805
+|predecessor1=Himself as [[President of Italy]]
+|successor1=None (<small>kingdom disbanded, next king of Italy was [[Victor Emmanuel II of Italy|Victor Emmanuel II]]</small>)
+|spouse=[[Joséphine de Beauharnais]]<br/>[[Marie Louise, Duchess of Parma|Marie Louise of Austria]]
+|issue=[[Napoleon II]]
+|house=[[House of Bonaparte]]
+|father=[[Carlo Buonaparte]]
+|mother=[[Letizia Ramolino]]
+|birth_date={{Birth date|1769|8|15|df=yes}}
+|birth_place=[[Ajaccio]], [[Corsica]], [[Kingdom of France|France]]
+|death_date={{Death date and age|1821|5|5|1769|8|15|df=yes}}
+|death_place=[[Longwood, Saint Helena|Longwood]], [[Saint Helena]]
+|place of burial=[[Les Invalides]], [[Paris]], [[France]]
+|religion = Roman Catholicism (see [[Napoleon#Religions|Religions section]])
+|signature=Firma Napoleón Bonaparte.svg
+|}}
+
+[[File:Imperial Standard of Napoléon I.svg|thumb|Imperial Standard of Napoleon I]]
+'''Napoleon Bonaparte''' ({{lang-fr|links=no|Napoléon Bonaparte}} {{IPA-fr|napoleɔ̃ bɔnɑpaʁt|}}, {{lang-it|links=no|Napoleone Buonaparte}}; 15 August 1769&nbsp;– 5 May 1821) was a French military and political leader who rose to prominence during the latter stages of the [[French Revolution]] and its associated [[French Revolutionary Wars|wars]] in Europe.
+

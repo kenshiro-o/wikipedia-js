@@ -1,0 +1,47 @@
+{{other uses}}
+<!-- ARTICLE USES BRITISH SPELLING: DON'T TRY TO "CORRECT" IT-->
+{{Use dmy dates|date=August 2013}}
+{{Use British English|date=August 2013}}
+{{pp-semi|small=yes}}{{pp-move-indef}}
+{{Infobox royalty|realm=france
+|name=Napoleon I
+|image=Jacques-Louis David - The Emperor Napoleon in His Study at the Tuileries - Google Art Project.jpg
+|imgw=225
+|alt=Full length portrait of Napoleon in his forties, in high-ranking white and dark blue military dress uniform. He stands amid rich 18th-century furniture laden with papers, and gazes at the viewer. His hair is [[Brutus]] style, cropped close but with a short fringe in front, and his right hand is tucked in his waistcoat.
+|caption=''[[The Emperor Napoleon in His Study at the Tuileries]]'', by [[Jacques-Louis David]], 1812
+|succession= [[Emperor of the French]]
+|reign=18 May 1804&nbsp;– 11 April 1814<br/>20 March 1815&nbsp;– 22 June 1815
+|coronation=2 December 1804
+|cor-type=france
+|full name=Napoleon Bonaparte
+|predecessor=Himself as [[First Consul]]
+|successor=[[Louis XVIII of France|Louis XVIII]] (''[[de jure]]'' in 1814)
+|succession1= [[King of Italy]]
+|reign1=17 March 1805&nbsp;– 11 April 1814
+|coronation1=26 May 1805
+|predecessor1=Himself as [[President of Italy]]
+|successor1=None <small>(kingdom disbanded, next king of Italy was [[Victor Emmanuel II of Italy|Victor Emmanuel II]]</small>)
+|spouse=[[Joséphine de Beauharnais]]<br/>[[Marie Louise, Duchess of Parma|Marie Louise of Austria]]
+|issue=[[Napoleon II]]
+|house=[[House of Bonaparte]]
+|father=[[Carlo Buonaparte]]
+|mother=[[Letizia Ramolino]]
+|birth_date={{Birth date|1769|8|15|df=yes}}
+|birth_place=[[Ajaccio]], [[Corsica]], [[Kingdom of France|France]]
+|death_date={{Death date and age|1821|5|5|1769|8|15|df=yes}}
+|death_place=[[Longwood, Saint Helena|Longwood]], [[Saint Helena]]
+|place of burial=[[Les Invalides]], [[Paris]], [[France]]
+|religion = Roman Catholicism (see [[Napoleon#Religions|Religions section]])
+|signature=Firma Napoleón Bonaparte.svg
+|}}
+[[File:Imperial Standard of Napoléon I.svg|thumb|Imperial Standard of Napoleon I]]
+
+'''Napoleon Bonaparte''' ({{lang-fr|links=no|Napoléon Bonaparte}} {{IPA-fr|napoleɔ̃ bɔnɑpaʁt|}}, {{lang-it|links=no|Napoleone Buonaparte}}; 15 August 1769&nbsp;– 5 May 1821) was a French military and political leader who rose to prominence during the latter stages of the [[French Revolution]] and its associated [[French Revolutionary Wars|wars]] in Europe.
+
+As '''Napoleon I''', he was [[Emperor of the French]] from 1804 to 1815, the first [[List of French monarchs|monarch of France]] bearing the title emperor since the reign of [[Charles the Fat]] (881–887). His legal reform, the [[Napoleonic Code]], has been a major influence on many [[Civil law (legal system)|civil law]] jurisdictions worldwide, but he is best remembered for his role in the wars led against France by a series of coalitions, the so-called [[Napoleonic Wars]]. He established [[hegemony]] over most of continental Europe and sought to spread the ideals of the French Revolution, while consolidating an [[First French Empire|imperial monarchy]] which restored aspects of the deposed ''[[Ancien Régime]].'' Due to his success in these wars, often against numerically superior enemies, he is generally regarded as one of the greatest military commanders of all time, and his campaigns are studied at military academies worldwide.<ref name="Schom 1998"/>
+
+Napoleon was born at [[Ajaccio]] in [[Corsica]] in a family of [[Nobility of Italy|noble Italian]] ancestry which had settled in Corsica in the 16th century. He trained as an artillery officer in mainland France. He rose to prominence under the [[French First Republic]] and led successful campaigns against the [[First Coalition|First]] and [[War of the Second Coalition|Second]] Coalitions arrayed against France. He led a successful invasion of the Italian peninsula.
+
+In 1799, he staged a ''[[18 Brumaire|coup d'état]]'' and installed himself as [[First Consul]]; five years later the French Senate proclaimed him emperor, following a [[plebiscite]] in his favour. In the first decade of the 19th century, the [[First French Empire|French Empire]] under Napoleon engaged in a series of conflicts—the [[Napoleonic Wars]]—that involved every major European power.<ref name="Schom 1998">{{cite book|last=Schom|first=Alan|title=Napoleon Bonaparte|year=1998|publisher=HarperPerennial|location=New York|isbn=0-06-092958-8|edition=1. HarperPerennial}}</ref> After a streak of victories, France secured a dominant position in continental Europe, and Napoleon maintained the French [[sphere of influence]] through the formation of extensive alliances and the elevation of friends and family members to rule other European countries as French [[vassal state]]s.
+
+The [[Peninsular War]] and the [[French invasion of Russia|invasion of Russia]] in 1812 marked turning points in Napoleon's fortunes. His ''[[Grande Armée]]'' was badly damaged in the campaign and never fully recovered. In 1813, the [[Sixth Coalition]] defeated his forces [[Battle of Leipzig|at Leipzig]]; the following year the Coalition invaded France, forced Napoleon to abdicate and exiled him to the island of [[Elba]]. Less than a year later, he escaped Elba and [[Hundred Days|returned to power]], but he was defeated at the [[Battle of Waterloo]] in June 1815. Napoleon spent the last six years of his life in confinement by the British on the island of [[Saint Helena]]. An autopsy concluded he died of [[stomach cancer]], but there has been some debate about the cause of his death, as some scholars have speculated that he was a victim of [[arsenic poisoning]]. 
