@@ -13,6 +13,7 @@
     "superagent": "0.12.x",
     "cheerio": "0.10.x",
     "underscore": "*",
+    "pegjs": "*",
     "underscore.string": "2.3.x"
   },
   "devDependencies":{
