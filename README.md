@@ -1,7 +1,7 @@
 # wikipedia-js [![Build Status](https://travis-ci.org/kenshiro-o/wikipedia-js.png?branch=master)](https://travis-ci.org/kenshiro-o/wikipedia-js)
 
   wikipedia-js is a simple client that enables you to query Wikipedia articles in english. 
-  The format of the result is among `json`, `jsonfm`, `wddx`, `wddxfm`, `xml`, `rawfm`.
+  The format of the result is among `json`, `html`, `xml`, `rawfm`.
   In the case of `html` the result is formatted in basic HTML. You can retrieve either a summary of an article (i.e. before the table of contents) or a full article
 
 ## Rationale
