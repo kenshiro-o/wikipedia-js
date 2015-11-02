@@ -3,10 +3,11 @@
   wikipedia-js is a simple client that enables you to query Wikipedia articles. 
   The format of the result is among `json`, `html`, `xml`, `rawfm`.
   In the case of `html` the result is formatted in basic HTML. You can retrieve either a summary of an article (i.e. before the table of contents) or a full article.
+=======
 
 ## Rationale
 
-  This project was created because Wikipedia do currently not support a node.js API.
+  This project was created because Wikipedia currently does not support a node.js API.
 
 ## Installation
 
