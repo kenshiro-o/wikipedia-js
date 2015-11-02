@@ -1,3 +1,7 @@
+0.0.7 / 2015-11-1
+====================
+* query non-english wikipedias with lang argument
+
 0.0.6 / 2013-06-23
 ====================
 * return non-parsed formats other than JSON
