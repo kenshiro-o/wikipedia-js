@@ -1,8 +1,9 @@
 # wikipedia-js [![Build Status](https://travis-ci.org/kenshiro-o/wikipedia-js.png?branch=master)](https://travis-ci.org/kenshiro-o/wikipedia-js)
 
-  wikipedia-js is a simple client that enables you to query Wikipedia articles in English. 
-  The format of the result is among `json`, `jsonfm`, `wddx`, `wddxfm`, `xml`, `rawfm`.
-  In the case of `html` the result is formatted in basic HTML. You can retrieve either a summary of an article (i.e. before the table of contents) or a full article
+  wikipedia-js is a simple client that enables you to query Wikipedia articles. 
+  The format of the result is among `json`, `html`, `xml`, `rawfm`.
+  In the case of `html` the result is formatted in basic HTML. You can retrieve either a summary of an article (i.e. before the table of contents) or a full article.
+=======
 
 ## Rationale
 
@@ -20,7 +21,10 @@
     var query = "Napoleon Bonaparte";
     // if you want to retrieve a full article set summaryOnly to false.
     // Full article retrieval and parsing is still beta
-    var options = {query: query, format: "html", summaryOnly: true};
+    // lang takes a language code in the format they appear in the URL. 
+    // default: 'en' 
+    // examples: 'simple','fr','zh','fa'
+    var options = {query: query, format: "html", summaryOnly: true, lang: "en"};
     wikipedia.searchArticle(options, function(err, htmlWikiText){
       if(err){
         console.log("An error occurred[query=%s, error=%s]", query, err);
@@ -51,12 +55,6 @@
      {{Gutenberg|no=3567|name=Memoirs of Napoleon}} -> <a href="http://www.gutenberg.org/ebooks/3567">Memoirs Of Napoleon</a>
 
 
-## Additional features
-
-  The following features will be added soon:
-  - parse metadata
-  - return other formats i.e.: `yaml`, `php`, `txt`, `dbg`, `dump`
-  - improve performance
 
 ## Acknowledgement
   I would like to thank the following people for their contribution to this project:
